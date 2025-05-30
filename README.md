@@ -1,4 +1,4 @@
-# PandasAI-Streamlit-Explorer
+# SmartCSV-Explorer
 
 This Python project combines the power of **PandasAI**, **OpenAI**, and **Streamlit** to create an interactive tool for **data exploration and visualization**. Users can upload CSV files, ask natural language questions about their data, and receive instant answers and charts—powered by an LLM backend.
 
